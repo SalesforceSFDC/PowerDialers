@@ -8,6 +8,7 @@
 - Teams save up to 50% per seat
 - Call Recording & Local ID available
 - No setup or additional variable fees
+- [Installation Guide](https://www.phoneburner.com/docs/Salesforce_Install.pdf)
 
 
 ####
