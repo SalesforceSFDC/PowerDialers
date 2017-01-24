@@ -1,4 +1,5 @@
-# PowerDialers
+# Autodialers
+#
 
 ### [Spitfire](https://www.spitfiredialers.com/index.php/spitfire-products/spitfire-enterprise-dialer-spe.html)
 
