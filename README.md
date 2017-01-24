@@ -16,5 +16,5 @@ Dial by list is an advanced feature in FastCall that enables users to dial down 
 ####
  * [Evaluation Matrix](https://docs.google.com/spreadsheets/d/1h1-yO1X3Ajs9So6rY_vHSwLsU8u6KJOQxlQZli6ORZk/edit#gid=1915105809)
 
-#### Open Source Power Dialer APIs
+#### Open Source Autodialer APIs
  * [ICT Dialer installation guide](http://www.ictdialer.org/content/installation-guide)
